@@ -1,0 +1,24 @@
+{
+  "name": "recap",
+  "version": "1.0.0",
+  "description": "blah",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woloszyna/recap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woloszyna/recap/issues"
+  },
+  "homepage": "https://github.com/woloszyna/recap#readme",
+  "dependencies": {
+    "chromedriver": "^86.0.0",
+    "geckodriver": "^1.20.0",
+    "selenium-webdriver": "^3.6.0"
+  }
+}
