@@ -16,4 +16,4 @@ PLATFORM: https://library-app.firebaseapp.com
 
 <b>HINTS:</b>
 1. You can create files usin 'touch xxxx.js' command instead of creating them in VSCode.
-<p style="color:red;">2. ALWAYS AND ONLY Install the official selenium-webdriver (3.6.0). DO NOT INSTALL alpha version as it couses a lot of errors.</p>
+2. ALWAYS AND ONLY Install the official selenium-webdriver <b>(3.6.0)</b>. DO NOT INSTALL alpha version as it couses a lot of errors.
