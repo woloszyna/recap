@@ -3,7 +3,8 @@
 ## <b>DESCRIPTION:</b>
 
 
-## <b>PLATFORM: https://library-app.firebaseapp.com</b>
+## <b>LEARNING PLATFORM: https://library-app.firebaseapp.com</b>
+## <b>EXPERIMENTING AND PRACTICE PLATFORM: http://the-internet.herokuapp.com</b>
 
 
 ## <b>INSTALLATION STEPS:</b>
@@ -15,5 +16,17 @@
 
 
 ## <b>HINTS:</b>
-1. You can create files usin 'touch xxxx.js' command instead of creating them in VSCode.
+1. You can create files using 'touch xxxx.js' command instead of creating them in VSCode.
 2. ALWAYS AND ONLY Install the official selenium-webdriver <b>(3.6.0)</b>. DO NOT INSTALL alpha version as it couses a lot of errors.
+
+
+## <b>WHAT I HAVE LEARNT 24/10/2020:</b>
+1. JS Promises
+4. implcit wait  > driver.manage().timeouts().implicitlyWait(xxx);
+5. explicit wait > until + practice on the experiment platform
+    5.1. elementIsSelected
+    5.2. elementIsNotSelected
+    5.3. elementIsEnabled
+    5.4. elementIsDisabled
+    5.5. elementIsVisible
+    5.6. elementIsNotVisible
