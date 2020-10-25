@@ -35,4 +35,4 @@
 ## <b>25/10/2020:</b>
 1. Continue using webdriverJS API to learn functions
 2. Explicit wait for custom condition
-3. 
+3. Closing Project and Creating new project for MOCHA!
