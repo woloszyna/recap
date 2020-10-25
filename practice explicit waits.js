@@ -63,6 +63,8 @@ driver.wait(until.elementIsVisible(driver.findElement(By.id('checkbox'))),5000).
 });
 //End of block to train elementIsVisible elementIsNotVisible explicit wait methods.
 
+//TODO: #1 learn a bit more about explicit waits, work with the https://www.selenium.dev/selenium/docs/api/javascript/module/selenium-webdriver/lib/until.html
+
 //Block to train elementTextIs explicit wait methods.
 
 
