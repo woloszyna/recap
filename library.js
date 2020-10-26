@@ -12,7 +12,7 @@ driver.findElement(By.css('input')).sendKeys('blahblahemail.com');
 
 driver.wait(function(){
     return submitBtn.isEnabled();
-},10000);
+},5000);
 
 
 submitBtn.click();
